@@ -1,3 +1,4 @@
+# for use with the Arduino CLI https://github.com/arduino/arduino-cli
 .PHONY: build flash
 
 BOARD = teensy:avr:teensy41
